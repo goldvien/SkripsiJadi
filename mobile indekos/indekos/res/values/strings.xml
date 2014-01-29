@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ClientindekosActivity!</string>
+    <string name="app_name">Indekos</string>
+    <string name="start_sinkron">Mulai Sinkronisasi Data</string>
+    <string name="kembali">Kembali</string>
+    <string name="sinkron">Sinkronisasi Data</string>
+    <string name="carimain">Cari Indekos</string>
+    <string name="dataempty">Data masih kosong</string>
+    <string name="btn_autosink_run">Jalankan Sinkronisasi</string>
+    <string name="btn_autosink_stop">Hentikan Sinkronisasi</string>
+    <string name="fasilitaseks">Daftar Fasilitas Eksternal</string>
+    <string name="tv_empty"></string>
+    <string name="listprovinsi">Daftar Provinsi</string>
+    <string name="listkota">Daftar Kota</string>
+    <string name="daftarindekosdekatkota">Daftar Indekos Terdekat Pusat Kota</string>
+    <string name="fasilitasmaster">Daftar Kategori Fasilitas</string>
+    <string name="longitued">Longitued</string>
+    <string name="latitued">Latitued</string>
+    <string name="daftarindekos">Daftar Indekos</string>
+    <string name="space"> </string>
+    <string name="km">  km</string>
+    <string name="m">  m</string>
+    <string name="kamar">Kamar  : </string>
+    <string name="kosong">  kosong</string>
+    <string name="loading">Loading</string>
+    <string name="batal">Batal</string>
+    <string name="indekosterdekat">Indekos Terdekat</string>
+    <string name="autosink">Pengaturan Sinkronisasi Data</string>
+    <string name="harga">Harga : </string>
+    <string name="untuk">Untuk :</string>
+    <string name="detailindekos">Rincian Indekos</string>
+    <string name="per">/</string>
+    <string name="isi">Isi :</string>
+    <string name="orang">orang</string>
+    <string name="bukakurung">(</string>
+    <string name="tutupkurung">)</string>
+    <string name="ukuran">"ukuran : "</string>
+    <string name="x">x</string>
+    <string name="ket">Keterangan</string>
+    <string name="kmr">DAFTAR KAMAR</string>
+    <string name="ruteindekos">Rute Jalan Indekos</string>
+    <string name="detailkamar">Detail Kamar</string>
+    <string name="fasilitasint">FASILITAS YANG ADA DIKAMAR</string>
+    <string name="fotokamar">Foto Kamar</string>
+    <string name="lihatfoto">Lihat foto kamar</string>
+    <string name="sts">Status : </string>
+    <string name="sampaitgl">Sampai Tanggal : </string>
+
+</resources>

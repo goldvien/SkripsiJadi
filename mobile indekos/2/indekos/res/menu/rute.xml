@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/menu_telpon" android:title="Hubungi Pemilik"></item><item
+        android:id="@+id/rute"
+        android:title="Rute Jalan Indekos">
+    </item>
+    <item
+        android:id="@+id/kembali"
+        android:title="Kembali">
+    </item>
+    
+
+</menu>
